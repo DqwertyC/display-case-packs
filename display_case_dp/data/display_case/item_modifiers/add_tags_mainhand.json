@@ -12,6 +12,6 @@
   },
   {
     "function": "minecraft:set_nbt",
-    "tag": "{EntityTag:{Tags:[\"display_case\"]}}"
+    "tag": "{EntityTag:{Item:{Count:1b},Tags:[\"display_case\"]}}"
   }
 ]
