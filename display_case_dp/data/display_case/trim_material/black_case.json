@@ -1,0 +1,9 @@
+{
+    "asset_name": "black_case",
+    "description": {
+      "color": "#4F4A74",
+      "text": "Black Case"
+    },
+    "ingredient": "minecraft:black_stained_glass",
+    "item_model_index": 0.001
+  }

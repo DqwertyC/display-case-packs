@@ -1,0 +1,9 @@
+{
+    "asset_name": "black_case",
+    "description": {
+      "color": "#F6F6F7",
+      "text": "Clear Case"
+    },
+    "ingredient": "minecraft:glass",
+    "item_model_index": 0.017
+  }

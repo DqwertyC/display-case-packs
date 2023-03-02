@@ -1,0 +1,9 @@
+{
+    "asset_name": "blue_case",
+    "description": {
+      "color": "#5374C3",
+      "text": "Blue Case"
+    },
+    "ingredient": "minecraft:blue_stained_glass",
+    "item_model_index": 0.002
+  }

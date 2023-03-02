@@ -1,0 +1,9 @@
+{
+    "asset_name": "white_case",
+    "description": {
+      "color": "#F6F6F7",
+      "text": "White Case"
+    },
+    "ingredient": "minecraft:white_stained_glass",
+    "item_model_index": 0.015
+  }

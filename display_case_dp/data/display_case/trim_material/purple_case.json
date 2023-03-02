@@ -1,0 +1,9 @@
+{
+    "asset_name": "purple_case",
+    "description": {
+      "color": "#A56AB4",
+      "text": "Purple Case"
+    },
+    "ingredient": "minecraft:purple_stained_glass",
+    "item_model_index": 0.013
+  }

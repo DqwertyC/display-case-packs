@@ -1,0 +1,9 @@
+{
+    "asset_name": "cyan_case",
+    "description": {
+      "color": "#3984A4",
+      "text": "Cyan Case"
+    },
+    "ingredient": "minecraft:cyan_stained_glass",
+    "item_model_index": 0.004
+  }

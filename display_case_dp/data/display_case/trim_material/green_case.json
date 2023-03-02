@@ -1,0 +1,9 @@
+{
+    "asset_name": "green_case",
+    "description": {
+      "color": "#60812C",
+      "text": "Green Case"
+    },
+    "ingredient": "minecraft:green_stained_glass",
+    "item_model_index": 0.006
+  }

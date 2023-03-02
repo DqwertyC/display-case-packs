@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "display_case:item/glow_display_case",
+      "layer1": "display_case:trims/items/case_trim_red_glass"
+    }
+  }
+  

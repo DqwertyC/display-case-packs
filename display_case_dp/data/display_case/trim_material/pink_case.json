@@ -1,0 +1,9 @@
+{
+    "asset_name": "pink_case",
+    "description": {
+      "color": "#D098AD",
+      "text": "Pink Case"
+    },
+    "ingredient": "minecraft:pink_stained_glass",
+    "item_model_index": 0.012
+  }

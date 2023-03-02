@@ -1,0 +1,9 @@
+{
+    "asset_name": "yellow_case",
+    "description": {
+      "color": "#E6DC7D",
+      "text": "Yellow Case"
+    },
+    "ingredient": "minecraft:yellow_stained_glass",
+    "item_model_index": 0.016
+  }

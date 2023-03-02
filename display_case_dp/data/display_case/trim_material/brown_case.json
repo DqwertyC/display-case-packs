@@ -1,0 +1,9 @@
+{
+    "asset_name": "brown_case",
+    "description": {
+      "color": "#A36538",
+      "text": "Brown Case"
+    },
+    "ingredient": "minecraft:brown_stained_glass",
+    "item_model_index": 0.003
+  }

@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "display_case:trims/items/case_trim"
+      ],
+      "palette_key": "display_case:trims/color_palettes/case_palette",
+      "permutations": {
+        "black_glass": "display_case:trims/color_palettes/black_glass",
+        "blue_glass": "display_case:trims/color_palettes/blue_glass",
+        "brown_glass": "display_case:trims/color_palettes/brown_glass",
+        "clear_glass": "display_case:trims/color_palettes/clear_glass",
+        "cyan_glass": "display_case:trims/color_palettes/cyan_glass",
+        "gray_glass": "display_case:trims/color_palettes/gray_glass",
+        "green_glass": "display_case:trims/color_palettes/green_glass",
+        "light_blue_glass": "display_case:trims/color_palettes/light_blue_glass",
+        "light_gray_glass": "display_case:trims/color_palettes/light_gray_glass",
+        "lime_glass": "display_case:trims/color_palettes/lime_glass",
+        "magenta_glass": "display_case:trims/color_palettes/magenta_glass",
+        "orange_glass": "display_case:trims/color_palettes/orange_glass",
+        "pink_glass": "display_case:trims/color_palettes/pink_glass",
+        "purple_glass": "display_case:trims/color_palettes/purple_glass",
+        "red_glass": "display_case:trims/color_palettes/red_glass",
+        "white_glass": "display_case:trims/color_palettes/white_glass",
+        "yellow_glass": "display_case:trims/color_palettes/yellow_glass"
+      }
+    }
+  ]
+}

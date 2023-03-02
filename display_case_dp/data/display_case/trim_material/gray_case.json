@@ -1,0 +1,9 @@
+{
+    "asset_name": "gray_case",
+    "description": {
+      "color": "#808080",
+      "text": "Gray Case"
+    },
+    "ingredient": "minecraft:gray_stained_glass",
+    "item_model_index": 0.005
+  }

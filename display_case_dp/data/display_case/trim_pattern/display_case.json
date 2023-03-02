@@ -1,0 +1,7 @@
+{
+  "asset_id": "display_case:display_case",
+  "description": {
+    "text": "Display Case"
+  },
+  "template_item": "minecraft:smooth_stone_slab"
+}

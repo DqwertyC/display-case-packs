@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "display_case:item/item_frame_black_case",
+      "predicate": {
+        "trim_type": 0.001
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_blue_case",
+      "predicate": {
+        "trim_type": 0.002
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_brown_case",
+      "predicate": {
+        "trim_type": 0.003
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_cyan_case",
+      "predicate": {
+        "trim_type": 0.004
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_gray_case",
+      "predicate": {
+        "trim_type": 0.005
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_green_case",
+      "predicate": {
+        "trim_type": 0.006
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_light_blue_case",
+      "predicate": {
+        "trim_type": 0.007
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_light_gray_case",
+      "predicate": {
+        "trim_type": 0.008
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_lime_case",
+      "predicate": {
+        "trim_type": 0.009
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_magenta_case",
+      "predicate": {
+        "trim_type": 0.010
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_orange_case",
+      "predicate": {
+        "trim_type": 0.011
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_pink_case",
+      "predicate": {
+        "trim_type": 0.012
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_purple_case",
+      "predicate": {
+        "trim_type": 0.013
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_red_case",
+      "predicate": {
+        "trim_type": 0.014
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_white_case",
+      "predicate": {
+        "trim_type": 0.015
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_yellow_case",
+      "predicate": {
+        "trim_type": 0.016
+      }
+    },
+    {
+      "model": "display_case:item/item_frame_clear_case",
+      "predicate": {
+        "trim_type": 0.017
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+  }
+}

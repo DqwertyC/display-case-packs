@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": {
+    "tag": "display_case:glass"
+  },
+  "base": {
+    "tag": "display_case:item_frames"
+  },
+  "template": {
+    "item": "minecraft:smooth_stone_slab"
+  }
+}

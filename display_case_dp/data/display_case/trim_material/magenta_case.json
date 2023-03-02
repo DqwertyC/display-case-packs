@@ -1,0 +1,9 @@
+{
+    "asset_name": "magenta_case",
+    "description": {
+      "color": "#D67FFF",
+      "text": "Magenta Case"
+    },
+    "ingredient": "minecraft:magenta_stained_glass",
+    "item_model_index": 0.010
+  }

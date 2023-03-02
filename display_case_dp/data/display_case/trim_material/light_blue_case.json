@@ -1,0 +1,9 @@
+{
+    "asset_name": "light_blue_case",
+    "description": {
+      "color": "#7F9FCB",
+      "text": "Light Blue Case"
+    },
+    "ingredient": "minecraft:light_blue_stained_glass",
+    "item_model_index": 0.007
+  }

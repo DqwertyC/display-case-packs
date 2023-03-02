@@ -1,0 +1,9 @@
+{
+    "asset_name": "lime_case",
+    "description": {
+      "color": "#9BD338",
+      "text": "Lime Case"
+    },
+    "ingredient": "minecraft:lime_stained_glass",
+    "item_model_index": 0.009
+  }

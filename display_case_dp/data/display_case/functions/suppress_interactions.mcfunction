@@ -1,0 +1,6 @@
+execute positioned ^ ^ ^0.5 align xyz positioned ~0.5 ~ ~0.5 run tag @e[tag=display_case_interaction,tag=!interaction_suppressed,sort=nearest,limit=1] add interaction_suppressed
+execute positioned ^ ^ ^1.5 align xyz positioned ~0.5 ~ ~0.5 run tag @e[tag=display_case_interaction,tag=!interaction_suppressed,sort=nearest,limit=1] add interaction_suppressed
+execute positioned ^ ^ ^2.5 align xyz positioned ~0.5 ~ ~0.5 run tag @e[tag=display_case_interaction,tag=!interaction_suppressed,sort=nearest,limit=1] add interaction_suppressed
+execute positioned ^ ^ ^3.5 align xyz positioned ~0.5 ~ ~0.5 run tag @e[tag=display_case_interaction,tag=!interaction_suppressed,sort=nearest,limit=1] add interaction_suppressed
+execute positioned ^ ^ ^4.5 align xyz positioned ~0.5 ~ ~0.5 run tag @e[tag=display_case_interaction,tag=!interaction_suppressed,sort=nearest,limit=1] add interaction_suppressed
+execute positioned ^ ^ ^5.5 align xyz positioned ~0.5 ~ ~0.5 run tag @e[tag=display_case_interaction,tag=!interaction_suppressed,sort=nearest,limit=1] add interaction_suppressed

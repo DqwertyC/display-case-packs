@@ -1,0 +1,9 @@
+{
+    "asset_name": "red_case",
+    "description": {
+      "color": "#D55C56",
+      "text": "Red Case"
+    },
+    "ingredient": "minecraft:red_stained_glass",
+    "item_model_index": 0.014
+  }

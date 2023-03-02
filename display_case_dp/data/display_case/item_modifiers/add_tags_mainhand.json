@@ -1,0 +1,17 @@
+[
+  {
+    "function": "minecraft:copy_nbt",
+    "source": "this",
+    "ops": [
+      {
+        "source": "SelectedItem",
+        "target": "EntityTag.Item",
+        "op": "replace"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{EntityTag:{Tags:[\"display_case\"]}}"
+  }
+]
